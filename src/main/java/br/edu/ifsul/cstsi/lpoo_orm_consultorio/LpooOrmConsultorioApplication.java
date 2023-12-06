@@ -8,6 +8,8 @@ public class LpooOrmConsultorioApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LpooOrmConsultorioApplication.class, args);
+		System.out.println("inicializou");
+		HomeController.main(null);
 	}
 
 }

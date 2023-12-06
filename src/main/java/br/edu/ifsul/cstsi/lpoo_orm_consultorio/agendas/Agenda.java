@@ -1,4 +1,4 @@
-package br.edu.ifsul.cstsi.lpoo_orm_consultorio.model;
+package br.edu.ifsul.cstsi.lpoo_orm_consultorio.agendas;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
